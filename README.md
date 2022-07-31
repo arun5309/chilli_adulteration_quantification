@@ -22,4 +22,4 @@ Malda 732102, West Bengal, India
 
 By Dr.Tanmay Sarkar, Lecturer in Food Processing Technology
 
-**TODO:** Insert dataset link
+Dataset link: https://github.com/arun5309/chilli_adulteration_quantification_dataset
